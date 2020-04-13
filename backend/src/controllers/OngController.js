@@ -9,7 +9,7 @@ module.exports = {
     },
 
     async create(request, response){
-        const { name, email, whatsapp, city, uf } = request.body;
+        const {name, email, whatsapp, city, uf} = request.body;
         const id = crypto.randomBytes(4).toString('HEX');
 
         await connection('ongs')
@@ -22,6 +22,6 @@ module.exports = {
                 uf
             });
 
-        return response.json({ id });
+        return response.json({id});
     }
 };
