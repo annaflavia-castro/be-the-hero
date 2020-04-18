@@ -52,7 +52,7 @@ export default function Profile() {
                 <Link className='button' to='/incidents/new'>Cadastrar novo caso</Link>
 
                 <button onClick={handleLogout} type='button'>
-                    <FiPower size={18} color='#E02041'/>
+                    <FiPower size={18} color='#0CB6FF'/>
                 </button>
             </header>
 
@@ -71,7 +71,7 @@ export default function Profile() {
                         <p>{Intl.NumberFormat('pt-BR', {style: 'currency', currency: 'BRL'}).format(incident.value)}</p>
 
                         <button onClick={() => handleDeleteIncident(incident.id)} type='button'>
-                            <FiTrash2 size={20} color='#A8A8B3'/>
+                            <FiTrash2 size={20} color='#E02041'/>
                         </button>
                     </li>
                 ))}
