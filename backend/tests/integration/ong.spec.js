@@ -24,7 +24,6 @@ describe('ONG', () => {
         city: "São Bernardo do Campo",
         uf: "SP"
       });
-
     expect(response.body).toHaveProperty('id');
     expect(response.body.id).toHaveLength(8);
   });
