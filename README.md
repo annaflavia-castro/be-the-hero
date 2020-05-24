@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="" src="images/logo.svg">
+    <img alt="" title="" src="images/logo.png">
 </h1>
 
 <p align="center">
@@ -91,6 +91,14 @@ The collection of test requests for this project, are in the insomnia.test.json 
 The layout is available on [Figma](https://www.figma.com/file/iqE3vgR6PDxhD3ejBwJ90o/Be-The-Hero---OmniStack-11).
 
 ## Screens
+![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/new_ong.png)
+
+![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/login.png)
+
+![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/new_incident.png)
+
+![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/incidents.png)
+
 
 ## License
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
