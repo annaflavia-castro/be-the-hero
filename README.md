@@ -16,7 +16,7 @@
 
 <h3 align="center"> Project for ONGs to register cases with their needs and people to volunteer to help. </h3>
 
-<h3 align="center"><img src="images/react.png" alt="react" height="18"> React, <img src="images/react-native.png" alt="react-native" height="18"> React Native, <img src="images/node.png" alt="node" height="18"> Node, <img src="images/sqlite.png" alt="node" height="18"> SQLite </h3>
+<h3 align="center"><img src="images/react.png" alt="react" height="18"> React, <img src="images/react-native.png" alt="react-native" height="18"> React Native, <img src="images/node.png" alt="node" height="18"> Node.js, <img src="images/sqlite.png" alt="sqlite" height="18"> SQLite </h3>
 
 <p align="center"> Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o JavaScript. <br> Produtividade e performance de forma enxuta. </p>
 
