@@ -18,7 +18,7 @@
 
 <h3 align="center"><img src="images/react.png" alt="react" height="18"> React, <img src="images/react-native.png" alt="react-native" height="18"> React Native, <img src="images/node.png" alt="node" height="18"> Node.js, <img src="images/sqlite.png" alt="sqlite" height="18"> SQLite </h3>
 
-<p align="center"> Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o JavaScript. <br> Produtividade e performance de forma enxuta. </p>
+<p align="center"> Using the power of a powerful stack, using a single popular and modern language, JavaScript. <br> Lean productivity and performance. </p>
 
 ---
 
@@ -99,10 +99,11 @@ The layout is available on [Figma](https://www.figma.com/file/iqE3vgR6PDxhD3ejBw
 
 ![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/incidents.png)
 
+![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/smartphone.png)
 
 ## License
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
 ---
 
-<p align="center">Feito com ❤️ por <strong>Anna Flávia Castro</p>
+<p align="center">Made with ❤️ by <strong>Anna Flávia Castro</p>
